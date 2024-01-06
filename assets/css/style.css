@@ -6599,7 +6599,7 @@
   position: relative;
   border-radius: 5px;
   overflow: hidden;
-  background-color: var(--white-color);
+  background-color: var(--white-color-opicity-two);
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
 }
 
